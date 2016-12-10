@@ -1,4 +1,4 @@
-## Music Helper [![build status](https://travis-ci.org/TimothyTim/music-helper.svg)](https://travis-ci.org/TimothyTim/music-helper.js)
+## Music Helper [![build status](https://travis-ci.org/TimothyTim/music-helper.svg)](https://travis-ci.org/TimothyTim/music-helper)
 
 ##### You can do the following conversions:
 ```
