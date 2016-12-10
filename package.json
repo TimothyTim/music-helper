@@ -1,0 +1,23 @@
+{
+  "name": "music-helper",
+  "version": "1.0.0",
+  "description": "Helper functions for music-y things.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimothyTim/music-helper.git"
+  },
+  "keywords": [
+    "music",
+    "helper",
+    "functions",
+    "frequency",
+    "midi",
+    "note"
+  ],
+  "author": "timothyt",
+  "license": "ISC"
+}
